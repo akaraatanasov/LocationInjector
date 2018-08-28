@@ -34,7 +34,7 @@ awk -f adjust_gpx_to_apple_format.awk Office-Motortrack-Office-10kmh-original.gp
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
