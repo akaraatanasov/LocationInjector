@@ -1,6 +1,11 @@
-This project purpose is to simulate a running/driving GPS session.
+# LocationInjector
 
-How to use:
+This project purpose is to simulate a running/driving GPS session
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine.
+
 1. Open http://www.gpsies.com/createTrack.do
 2. Add coordinate points on the map
 3. Find the "Export file" section, select GPX Track and download the file
