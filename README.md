@@ -26,7 +26,9 @@ awk -f adjust_gpx_to_apple_format.awk Office-Motortrack-Office-10kmh-original.gp
 6. Import your converted file in the GPX Files folder (preferably)
 7. Run the app on the same device/simulator you want to simulate the running session
 8. Select the location arrow button in the debugger bar (it's right next to the App name on the left side)
+
 ![alt text](https://image.ibb.co/dyAsxp/Screen_Shot_2018_08_28_at_11_45_33.png)
+
 9. Select the file you just imported
 10. Press the Home button on your device/simulator and then open the app you want to test
 
@@ -36,5 +38,5 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 
-* (How To Simulate GPS Movement in iOS)[https://medium.com/@augusteo/how-to-simulate-gps-movement-in-ios-cca61907df2c] - The tutorial I followed
-* (Amit Palomo GPX Conversion script)[https://gist.github.com/scotbond/8a61cf1f4a43973e570b] - Original .gpx conversion script
+* [How To Simulate GPS Movement in iOS](https://medium.com/@augusteo/how-to-simulate-gps-movement-in-ios-cca61907df2c) - The tutorial I followed
+* [Amit Palomo GPX Conversion script](https://gist.github.com/scotbond/8a61cf1f4a43973e570b) - Original .gpx conversion script
